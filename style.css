@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-    color: #a4e8ff;
+    color: #00bfff;
 }
 
 p {
@@ -18,7 +18,7 @@ p {
 }
 
 button {
-    background-color: #4fafcf;
+    background-color: #00bfff;
     color: white;
     padding: 12px 25px;
     border: none;
