@@ -2,5 +2,5 @@ const button = document.getElementById("myButton");
 const message = document.getElementById("message");
 
 button.addEventListener("click", function () {
-    message.innerText = "JavaScript is working! 🚀";
+    message.innerText = "JavaScript is working! 🚀 ";
 });
